@@ -6,11 +6,11 @@ First step is to open CLI and set the directory to the project folder location o
 
 Server `Path: \Weather-Teller>`
 
-Run the following commands in CLI
-`$ npm init`
-`$ npm install`
-`$ npm install express`
-`Path: \Weather-Teller>node src/app.js`
+Run the following commands in CLI <br/>
+`$ npm init` <br/>
+`$ npm install` <br/>
+`$ npm install express` <br/>
+`Path: \Weather-Teller>node src/app.js` <br/>
 
 ## About This App
 
