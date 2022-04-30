@@ -28,4 +28,4 @@ This is a webapp that shows instant weather updates like temperature, humidity, 
 
 ## Objective
 
-- This project is a pratice for me to learn MVC pattern, express.js framework and the use of APIs and various packages.
+- This project is a pratice for me to learn MVC pattern, express.js framework and the use of APIs and various packages. This was done as a project for an academic course coded CSE470 in BRAC University.
