@@ -15,35 +15,17 @@ Run the following commands in CLI <br/>
 ## About This App
 
 ```
-Role
-	|- Admin
-		|- MyAccount
-			|- Cart
-			|- History
-			|- Profile
-			|- Logout
-		|- Dashboard
-			|- ProductsControlPanel
-			|- UsersControlPanel
-	|- User
-		|- MyAccount
-			|- Cart
-			|- History
-			|- Profile
-			|- Logout
-	|- Guest
-		|- SIGN UP
-		|- SIGN IN
+This is a webapp that shows instant weather updates like temperature, humidity, air pressue, air speed etc. of any particular city upon searching by the name of the city.
 
 ```
 
 ## What I Learned
 
-- OAuth 2.0, JWT token, RESTful API, MVC Pattern, NodeJS, TypeScript
-- Frontend: React.js, React Hooks, Redux, Responsive
-- Backend: MongoDB Atlas, Express.js
-- CSS Framework / UI: Tailwind CSS, Material-UI
+- RESTful API, MVC Pattern, NodeJS, Javascript (ES6)
+- Frontend: HandleBarS(.hbs)
+- Backend: Express.js
+- CSS Framework / UI: Bootstrap
 
 ## Objective
 
-- This project is a pratice for me to learn MVC pattern, modern framework and webapp.
+- This project is a pratice for me to learn MVC pattern, express.js framework and the use of APIs and various packages.
