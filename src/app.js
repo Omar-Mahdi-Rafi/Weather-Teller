@@ -9,7 +9,7 @@ app.use(express.static("public"))
 app.set("views", "views")
 app.set("view engine", "hbs")
 
-app.use("//", router)
+app.use("/", router)
 
 app.listen(3000, () => {
    console.log("This server is running on port 3000")
