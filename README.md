@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-First step is to open CLI and set the directory to the project folder location on local drivee
+First step is to open CLI and set the directory to the project folder location on local drive
 
 Server `Path: \Weather-Teller>`
 
