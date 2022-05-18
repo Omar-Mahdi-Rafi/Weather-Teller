@@ -28,6 +28,8 @@ Run the following commands in CLI <br/>
 `$ npm install express` <br/>
 `Path: \Weather-Teller>node src/app.js` <br/>
 
+### Visit 
+weather-teller.netlify.app
 
 ## What I Learned
 
