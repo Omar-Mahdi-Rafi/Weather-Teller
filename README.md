@@ -1,5 +1,13 @@
 # Weather-Teller
 
+This is a webapp that shows instant weather updates like temperature, humidity, air pressue, air speed etc. of any particular city upon searching by the name of the city.
+
+## Tech stack
+  1. ExpressJS
+  2. HandleBarS (.hbs)
+  3. Bootstrap
+  4. NodeJS
+
 ## Getting Started
 
 First step is to open CLI and set the directory to the project folder location on local drive
@@ -12,12 +20,6 @@ Run the following commands in CLI <br/>
 `$ npm install express` <br/>
 `Path: \Weather-Teller>node src/app.js` <br/>
 
-## About This App
-
-```
-This is a webapp that shows instant weather updates like temperature, humidity, air pressue, air speed etc. of any particular city upon searching by the name of the city.
-
-```
 
 ## What I Learned
 
