@@ -2,7 +2,13 @@
 
 This is a webapp that shows instant weather updates like temperature, humidity, air pressue, air speed etc. of any particular city upon searching by the name of the city.
 
+### Dekstop View
+
 ![Weather-Teller](/views/Capture.PNG)
+
+### Mobile View
+
+![Weather-Teller](/views/Capture2.PNG)
 
 ## Tech stack
   1. ExpressJS
