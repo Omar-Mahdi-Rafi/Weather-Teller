@@ -3,13 +3,13 @@
 This is a webapp that shows instant weather updates like temperature, humidity, air pressue, air speed etc. of any particular city upon searching by the name of the city.
 
 ### Dekstop View
-<p align="center">
+
 ![Weather-Teller](/views/Capture.PNG)
-</p>
+
 ### Mobile View
-<p align="center">
+
 ![Weather-Teller](/views/Capture2.PNG)
-</p>
+
 ## Tech stack
   1. ExpressJS
   2. HandleBarS (.hbs)
