@@ -29,7 +29,7 @@ Run the following commands in CLI <br/>
 `Path: \Weather-Teller>node src/app.js` <br/>
 
 ### Visit 
-weather-teller.netlify.app
+`https://weatherrteller.netlify.app/`
 
 ## What I Learned
 
